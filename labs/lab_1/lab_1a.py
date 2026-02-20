@@ -6,7 +6,7 @@ with your name. Then, save the code, add it to the staging area, and commit it t
 This is to simulate a change made on a robot: robot_speed = 8 # m/s
 """
 
-def main():
+def main(): 
     print("Hello World!")
 
     name = "Adrian" # TODO: Insert your name between the double quotes
